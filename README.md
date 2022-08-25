@@ -1,2 +1,2 @@
-# learning_log
-My Django project
+# Learning Log
+Make your own Learning Log, and keep a list of the topics you're learning about. Whenever you learn something new about a topic, make an entry summarising what you've learned.
